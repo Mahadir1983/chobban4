@@ -992,7 +992,8 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", ifilm
 https://live1.presstv.com/live/ifilmen.m3u8
-#EXTINF:-1 group-title="Movie Channel", Jalsha Movies
+#EXTINF:-1 group-title="Movie Channel", ifc Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:-1 group-title="Movie Channel", Jaya Max
 
