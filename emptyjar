@@ -266,7 +266,7 @@ http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=yst
 http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 9
 http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV 10 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 10
 http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 11
 http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
@@ -276,11 +276,11 @@ http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=yst
 http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="China",CCTV 14
 http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV 15 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 15
 http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV 17 - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 17
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="China",CCTV 4K - OFFLINE
+#EXTINF:-1,group-title="China",CCTV 4
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 
 
