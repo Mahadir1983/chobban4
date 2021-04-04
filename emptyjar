@@ -931,7 +931,7 @@ http://136.243.177.164/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", ConTV
 
 #EXTINF:-1 group-title="Movie Channel", Colors HD
-
+http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", Colors Cineplex
 
 #EXTINF:-1 group-title="Movie Channel", Disney Channel
@@ -1003,11 +1003,11 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
 http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
-
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 group-title="Movie Channel", Makkal
 
-#EXTINF:-1 group-title="Movie Channel", Manorajan TV
-
+#EXTINF:-1 group-title="Movie Channel", Manorajan Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 group-title="Movie Channel", MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 group-title="Movie Channel", MBC Action HD
@@ -1051,8 +1051,8 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/red_hbo.png", Red By HBO - OFFLINE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Movie Channel", Reel PX Comedy
-
+#EXTINF:-1 group-title="Movie Channel", Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Reel PX Family
 
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
@@ -1063,7 +1063,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
 
-#EXTINF:-1 group-title="Movie Channel", Sky Cinema Action
+#EXTINF:-1 group-title="Movie Channel", Shemaroo Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sky Cinema Comedy
 
@@ -1082,13 +1082,13 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie Channel", Sony Max
 
 #EXTINF:-1 group-title="Movie Channel", Sony Movies
-
+http://209.222.101.100:25461/tv/tv/22917
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Action
-
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
 #EXTINF:-1 group-title="Movie Channel", Sony Pix
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15570
+https://bit.ly/3v48zh4
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
@@ -1233,7 +1233,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1,group-title="Knowledge & Infotainment",  AKC
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Animal Planet (Offline)
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+http://84.22.33.210:8000/AnimalPlanet/index.m3u8
 #EXTINF:-1, group-title="Knowledge & Infotainment",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",BBC Earth (Offline)
