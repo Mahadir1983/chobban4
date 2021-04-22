@@ -714,126 +714,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 
 
-
-#EXTINF:-1,group-title="Variety Package",Fuji TV
-http://203.162.235.41:16904
-#EXTINF:-1,group-title="Variety Package", Nippon TV
-http://203.162.235.41:16905
-#EXTINF:-1,group-title="Variety Package",THAI PBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,group-title="Variety Package",AMC
-http://185.128.240.12:8098/amc
-#EXTINF:-1,group-title="Variety Package",Diva
-http://185.128.240.12:8098/diva
-#EXTINF:-1,group-title="Variety Package",Film Cafe
-http://185.128.240.12:8098/filmcafe
-#EXTINF:-1,group-title="Variety Package",Arcadia World
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:-1,group-title="Variety Package",CBS Reality
-http://188.24.35.175:8000/play/a01t/index.m3u8
-#EXTINF:-1,group-title="Variety Package",Fishing & Hunting
-http://185.128.240.12:8990/fh
-#EXTINF:-1,group-title="Variety Package", ANTV HD
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1,group-title="Variety Package",VTVCab4
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w1602351601_b2692000.m3u8
-#EXTINF:-1,group-title="Variety Package",KAPAMILYA
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/11.m3u8
-#EXTINF:-1,group-title="Variety Package",PBO
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/12.m3u8
-#EXTINF:-1,group-title="Variety Package",VIVA
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/13.m3u8
-#EXTINF:-1,group-title="Variety Package",CINEMA ONE
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/14.m3u8
-#EXTINF:-1,group-title="Variety Package",CELESTIAL MOVIES PINOY
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/87.m3u8
-#EXTINF:-1,group-title="Variety Package",HBO HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/15.m3u8
-#EXTINF:-1,group-title="Variety Package",CINEMAX HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/16.m3u8
-#EXTINF:-1,group-title="Variety Package",FOX MOVIES HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/17.m3u8
-#EXTINF:-1,group-title="Variety Package",FOX ACTION MOVIES HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/18.m3u8
-#EXTINF:-1,group-title="Variety Package",FOX FAMILY MOVIES
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/19.m3u8
-#EXTINF:-1,group-title="Variety Package",RED BY HBO
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/20.m3u8
-#EXTINF:-1,group-title="Variety Package",WARNER TV
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
-#EXTINF:-1,group-title="Variety Package",HITS MOVIES
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/22.m3u8
-#EXTINF:-1,group-title="Variety Package",DREAMWORKS
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/23.m3u8
-#EXTINF:-1,group-title="Variety Package",ANIMAX
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/24.m3u8
-#EXTINF:-1,group-title="Variety Package",DISNEY CHANNEL
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/25.m3u8
-#EXTINF:-1,group-title="Variety Package",DISNEY JR.
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/26.m3u8
-#EXTINF:-1,group-title="Variety Package",NICK JR.
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/27.m3u8
-#EXTINF:-1,group-title="Variety Package",NICK
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/28.m3u8
-#EXTINF:-1,group-title="Variety Package",CARTOON NETWORK
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/29.m3u8
-#EXTINF:-1,group-title="Variety Package",BOOMERANG
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/30.m3u8
-#EXTINF:-1,group-title="Variety Package",FOX SPORTS 2
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/31.m3u8
-#EXTINF:-1,group-title="Variety Package",ESPN
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/32.m3u8
-#EXTINF:-1,group-title="Variety Package",BBC EARTH
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/33.m3u8
-#EXTINF:-1,group-title="Variety Package",SOLAR SPORT
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/34.m3u8
-#EXTINF:-1,group-title="Variety Package",ANC
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/37.m3u8
-#EXTINF:-1,group-title="Variety Package",DISCOVERY HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/45.m3u8
-#EXTINF:-1,group-title="Variety Package",DISCOVERY ASIA
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/46.m3u8
-#EXTINF:-1,group-title="Variety Package",TLC HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/47.m3u8
-#EXTINF:-1,group-title="Variety Package",ANIMAL PLANET HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/49.m3u8
-#EXTINF:-1,group-title="Variety Package",NATIONAL GEOGRAPHIC
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/50.m3u8
-#EXTINF:-1,group-title="Variety Package",NATGEO WILD HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/51.m3u8
-#EXTINF:-1,group-title="Variety Package",NATGEO PEOPLE HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/52.m3u8
-#EXTINF:-1,group-title="Variety Package",HISTORY HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/53.m3u8
-#EXTINF:-1,group-title="Variety Package",KNOWLEDGE CHANNEL
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/54.m3u8
-#EXTINF:-1,group-title="Variety Package",LIFETIME
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/55.m3u8
-#EXTINF:-1,group-title="Variety Package",BLUE ANT ENT HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/56.m3u8
-#EXTINF:-1,group-title="Variety Package",BLUE ANT EXTREME HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/57.m3u8
-#EXTINF:-1,group-title="Variety Package",METRO CHANNEL
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/58.m3u8
-#EXTINF:-1,group-title="Variety Package",COMEDY CENTRAL HD
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/59.m3u8
-#EXTINF:-1,group-title="Variety Package",HBO ASIA
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1,group-title="Variety Package",HBO HITS
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:-1,group-title="Variety Package",STAR SPORTS
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby:iptvcat.com
-#EXTINF:-1,group-title="Variety Package",CINEMAX
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1,group-title="Variety Package",NATGEO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
-#EXTINF:-1,group-title="Variety Package", Maori Television
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-
-
-
-
-
 #EXTINF:-1,group-title="Kidz", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1,group-title="Kidz",CBeebies
@@ -876,8 +756,8 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 
 
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN Mexico
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", B4U Kadak
 
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
@@ -954,19 +834,23 @@ http://208.115.215.42/Colors_TV_HD/index.m3u8
 
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox.jpg", Fox HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group title="Movie Channel" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png", Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_action_movies.png", Fox Action Movies
-
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_crime.png", Fox Crime
-
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_family_movies.png", Fox Family Movies
-
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png", Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Fox Movies Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fox_movies_premium.png", Fox Movies Premium
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FXM
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/fx.png", FXX
+http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 #EXTINF:-1, group-title="Movie Channel", Galaxy Premium
 
 #EXTINF:-1, group-title="Movie Channel", Gemini Movies
@@ -974,13 +858,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, group-title="Movie Channel", Gem
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO HD
-http://136.243.177.164/HBO/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO 2
 http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO 3
 http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Zone
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hits.png", Hits
@@ -1106,7 +992,7 @@ http://185.71.64.167:80/live/307221124532/307221124532/83703.m3u8
 #EXTINF:-1 group-title="Movie Channel", Starz
 
 #EXTINF:-1 group-title="Movie Channel", Syfy
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="Movie Channel", TCM
 
 #EXTINF:-1 group-title="Movie Channel", Tamil TV
@@ -1241,35 +1127,37 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Crime & Investigation
 http://203.154.243.31:15001
 #EXTINF:-1, group-title="Knowledge & Infotainment",CGTN Documentary"
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 #EXTINF:-1, group-title="Knowledge & Infotainment", Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Channel
-http://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+http://iptvtree.net:8080/test-220471/4008/157597
 #EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,group-title="Knowledge & Infotainment", Eat & Go
+http://iptvtree.net:8080/test-220471/4008/
 #EXTINF:-1, group-title="Knowledge & Infotainment",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",HGTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-#EXTINF:-1,group-title="Knowledge & Infotainment",History
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic
+
+#EXTINF:-1, group-title="Knowledge & Infotainment", History
+http://iptvtree.net:8080/test-220471/4008/162519
+#EXTINF:-1,group-title="Knowledge & Infotainment", National Geographic
 http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic Indonesia
-https://nonton.site:8443/live/novi/novi123/96.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",National Geographic People
+http://iptvtree.net:8080/test-220471/4008/197966
 #EXTINF:-1, group-title="Knowledge & Infotainment",RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Travel HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment", HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
 
 #EXTINF:-1,group-title="Knowledge & Infotainment", UN TV
