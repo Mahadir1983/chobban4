@@ -861,7 +861,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 group-title="News", CNN Philipines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News", CNN America
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8 
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="News", DD India
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 group-title="News", DPRK Central TV North Korea
@@ -875,7 +875,7 @@ https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 #EXTINF:-1 group-title="News", Fox News Channel USA
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title="News", France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="News", i24 News Israel
 
 #EXTINF:-1 group-title="News", Jakarta Globe News Indonesia
