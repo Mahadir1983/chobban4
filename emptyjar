@@ -1001,592 +1001,648 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 #EXTINF:-1, group-title="Sukan", STAR SPORTS 1HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 
-#EXTINF:-1  group-title="Lokal",Antara TV
-https://nonton.site:8443/6894864475/7163819284/32586
-#EXTINF:-1  group-title="Lokal",ANTV
-https://nonton.site:8443/6894864475/7163819284/31
-#EXTINF:-1  group-title="Lokal",Bali TV
-https://nonton.site:8443/6894864475/7163819284/889
-#EXTINF:-1  group-title="Lokal",DAAI TV
-https://nonton.site:8443/6894864475/7163819284/21
-#EXTINF:-1  group-title="Lokal",Dunia Lain
-https://nonton.site:8443/6894864475/7163819284/910
-#EXTINF:-1 group-title="Lokal",Hope Channel
-https://nonton.site:8443/6894864475/7163819284/30183
-#EXTINF:-1  group-title="Lokal",Indosiar
-https://nonton.site:8443/6894864475/7163819284/1845
-#EXTINF:-1  group-title="Lokal",Jak TV
-https://nonton.site:8443/6894864475/7163819284/1210
-#EXTINF:-1 group-title="Lokal",JTV
-https://nonton.site:8443/6894864475/7163819284/135
-#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="Lokal",Life
-https://nonton.site:8443/6894864475/7163819284/1772
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Lokal",NET TV
-https://nonton.site:8443/6894864475/7163819284/24
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Lokal",NET TV FHD
-https://nonton.site:8443/6894864475/7163819284/78
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Lokal",Rajawali TV
-https://nonton.site:8443/6894864475/7163819284/37
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Lokal",SCTV
-https://nonton.site:8443/6894864475/7163819284/32
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Lokal",SCTV HD
-https://nonton.site:8443/6894864475/7163819284/931
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Lokal",Trans 7
-https://nonton.site:8443/6894864475/7163819284/35
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Lokal",Trans 7 FHD
-https://nonton.site:8443/6894864475/7163819284/930
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Lokal",Trans TV
-https://nonton.site:8443/6894864475/7163819284/34
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Lokal",Trans TV FHD
-https://nonton.site:8443/6894864475/7163819284/929
-#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Lokal",U Channel
-https://nonton.site:8443/6894864475/7163819284/1208
-#EXTINF:-1 tvg-id="" tvg-name="Kontes Nyanyi" tvg-logo="" group-title="Lokal",Kontes Nyanyi
-https://nonton.site:8443/6894864475/7163819284/36958
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO RIA HD
+https://nonton.site:8443/provision/pp/37332
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO PRIMA HD
+https://nonton.site:8443/provision/pp/37333
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO OASIS HD
+https://nonton.site:8443/provision/pp/37334
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO WARNA HD
+https://nonton.site:8443/provision/pp/37335
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO NAURA
+https://nonton.site:8443/provision/pp/37336
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TV ALHIJRAH
+https://nonton.site:8443/provision/pp/37337
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",GO SHOP RUUMA
+https://nonton.site:8443/provision/pp/37338
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",GO SHOP GAAYA
+https://nonton.site:8443/provision/pp/37339
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",SUN MUSIC
+https://nonton.site:8443/provision/pp/37340
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CHUTTI TV
+https://nonton.site:8443/provision/pp/37341
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ADITHYA
+https://nonton.site:8443/provision/pp/37342
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ZEE Tamil HD
+https://nonton.site:8443/provision/pp/37343
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",VINMEEN HD
+https://nonton.site:8443/provision/pp/37344
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",STAR VIJAY HD
+https://nonton.site:8443/provision/pp/37345
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",COLORS TAMIL
+https://nonton.site:8443/provision/pp/37346
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",SUN TV HD
+https://nonton.site:8443/provision/pp/37347
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BOLLYONE HD
+https://nonton.site:8443/provision/pp/37348
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",iQIYI HD
+https://nonton.site:8443/provision/pp/37349
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",GO SHOP 2
+https://nonton.site:8443/provision/pp/37350
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",XIAO TAI YANG HD
+https://nonton.site:8443/provision/pp/37351
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AEC HD
+https://nonton.site:8443/provision/pp/37352
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",SHUANG XING HD
+https://nonton.site:8443/provision/pp/37353
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",QUAN JIA HD
+https://nonton.site:8443/provision/pp/37354
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CELESTIAL HD
+https://nonton.site:8443/provision/pp/37355
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TVB JADE
+https://nonton.site:8443/provision/pp/37356
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AOD 351 HD
+https://nonton.site:8443/provision/pp/37357
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CTI ASIA
+https://nonton.site:8443/provision/pp/37358
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TVB E-NEWS
+https://nonton.site:8443/provision/pp/37359
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TVB XING HE HD
+https://nonton.site:8443/provision/pp/37360
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TVBS ASIA HD
+https://nonton.site:8443/provision/pp/37361
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CCM
+https://nonton.site:8443/provision/pp/37362
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HUA HEE DAI HD
+https://nonton.site:8443/provision/pp/37363
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CCTV4 HD
+https://nonton.site:8443/provision/pp/37364
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AOD 352 HD
+https://nonton.site:8443/provision/pp/37365
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AOD 353 HD
+https://nonton.site:8443/provision/pp/37366
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AOD 354 HD
+https://nonton.site:8443/provision/pp/37367
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AOD 355 HD
+https://nonton.site:8443/provision/pp/37368
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",KBS World HD
+https://nonton.site:8443/provision/pp/37369
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ONE HD
+https://nonton.site:8443/provision/pp/37370
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Oh!K HD
+https://nonton.site:8443/provision/pp/37371
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",tvN HD
+https://nonton.site:8443/provision/pp/37372
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HITS MOVIES HD
+https://nonton.site:8443/provision/pp/37373
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HBO HD
+https://nonton.site:8443/provision/pp/37374
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CINEMAX HD
+https://nonton.site:8443/provision/pp/37375
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",tvN Movies
+https://nonton.site:8443/provision/pp/37376
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO AWANI
+https://nonton.site:8443/provision/pp/37377
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BNC
+https://nonton.site:8443/provision/pp/37378
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CGTN
+https://nonton.site:8443/provision/pp/37379
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CNN HD
+https://nonton.site:8443/provision/pp/37380
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BBC News HD
+https://nonton.site:8443/provision/pp/37381
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AL JAZEERA HD
+https://nonton.site:8443/provision/pp/37382
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",SKY NEWS HD
+https://nonton.site:8443/provision/pp/37383
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CNA HD
+https://nonton.site:8443/provision/pp/37384
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CNBC
+https://nonton.site:8443/provision/pp/37385
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BLOOMBERG TV
+https://nonton.site:8443/provision/pp/37386
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ABC AUSTRALIA
+https://nonton.site:8443/provision/pp/37387
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",NGW HD
+https://nonton.site:8443/provision/pp/37388
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",NAT GEO HD
+https://nonton.site:8443/provision/pp/37389
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISCOVERY HD
+https://nonton.site:8443/provision/pp/37390
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISCOVERY ASIA
+https://nonton.site:8443/provision/pp/37391
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISC SCI HD
+https://nonton.site:8443/provision/pp/37392
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HISTORY HD
+https://nonton.site:8443/provision/pp/37393
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ANIMAL PLANET HD
+https://nonton.site:8443/provision/pp/37394
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TUTOR TV UPSR
+https://nonton.site:8443/provision/pp/37395
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TUTOR TV PT3
+https://nonton.site:8443/provision/pp/37396
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TUTOR TV SPM
+https://nonton.site:8443/provision/pp/37397
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TVIQ
+https://nonton.site:8443/provision/pp/37398
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO CERIA HD
+https://nonton.site:8443/provision/pp/37399
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISNEY XD HD
+https://nonton.site:8443/provision/pp/37400
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISNEY JUNIOR
+https://nonton.site:8443/provision/pp/37401
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DISNEY CHANNEL HD
+https://nonton.site:8443/provision/pp/37402
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",CARTOON NTWK HD
+https://nonton.site:8443/provision/pp/37403
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",NICKELODEON HD
+https://nonton.site:8443/provision/pp/37404
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",NICK JR
+https://nonton.site:8443/provision/pp/37405
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AXN HD
+https://nonton.site:8443/provision/pp/37406
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO HELLO
+https://nonton.site:8443/provision/pp/37407
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",KIX HD
+https://nonton.site:8443/provision/pp/37408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HITS HD
+https://nonton.site:8443/provision/pp/37409
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TLC HD
+https://nonton.site:8443/provision/pp/37410
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOOD NTWK HD
+https://nonton.site:8443/provision/pp/37411
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",AFN HD
+https://nonton.site:8443/provision/pp/37412
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",NATGEO PEOPLE
+https://nonton.site:8443/provision/pp/37413
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",WARNER TV
+https://nonton.site:8443/provision/pp/37414
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",C&I HD
+https://nonton.site:8443/provision/pp/37415
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",HGTV HD
+https://nonton.site:8443/provision/pp/37416
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DMAX HD
+https://nonton.site:8443/provision/pp/37417
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",COMEDY CENTRAL
+https://nonton.site:8443/provision/pp/37418
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",MTV
+https://nonton.site:8443/provision/pp/37419
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ANIMAX
+https://nonton.site:8443/provision/pp/37420
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",eGG Network
+https://nonton.site:8443/provision/pp/37421
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO ARENA HD
+https://nonton.site:8443/provision/pp/37422
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",COLORS HD
+https://nonton.site:8443/provision/pp/37427
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",VAANAVIL
+https://nonton.site:8443/provision/pp/37428
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX SPORTS HD
+https://nonton.site:8443/provision/pp/37429
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX SPORTS 2 HD
+https://nonton.site:8443/provision/pp/37430
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX SPORTS 3 HD
+https://nonton.site:8443/provision/pp/37431
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",beIN SPORTS
+https://nonton.site:8443/provision/pp/37432
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",bEIN MAX
+https://nonton.site:8443/provision/pp/37433
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",EUROSPORT HD
+https://nonton.site:8443/provision/pp/37434
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",WWE NETWORK
+https://nonton.site:8443/provision/pp/37435
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",GOLF CHANNEL HD
+https://nonton.site:8443/provision/pp/37436
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO RUGBY PASS TV
+https://nonton.site:8443/provision/pp/37437
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO CRICKET
+https://nonton.site:8443/provision/pp/37438
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ANIPLUS HD
+https://nonton.site:8443/provision/pp/37439
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",KPLUS HD
+https://nonton.site:8443/provision/pp/37440
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",DW HD
+https://nonton.site:8443/provision/pp/37441
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FRANCE24 HD
+https://nonton.site:8443/provision/pp/37442
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX Action Movies
+https://nonton.site:8443/provision/pp/37443
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX HD
+https://nonton.site:8443/provision/pp/37444
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX Family Movies
+https://nonton.site:8443/provision/pp/37445
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TV1
+https://nonton.site:8443/provision/pp/37446
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",TV2
+https://nonton.site:8443/provision/pp/37447
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Baby TV
+https://nonton.site:8443/provision/pp/37448
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BBC Earth HD
+https://nonton.site:8443/provision/pp/37449
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",BBC Lifestyle
+https://nonton.site:8443/provision/pp/37450
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Blue Ant Entertainment
+https://nonton.site:8443/provision/pp/37451
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Blue Ant Extreme
+https://nonton.site:8443/provision/pp/37452
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Boomerang HD
+https://nonton.site:8443/provision/pp/37453
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Cinema World HD
+https://nonton.site:8443/provision/pp/37454
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Colors Cineplex
+https://nonton.site:8443/provision/pp/37455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Dreamworks HD
+https://nonton.site:8443/provision/pp/37456
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX Life HD
+https://nonton.site:8443/provision/pp/37457
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",FOX Movies HD
+https://nonton.site:8443/provision/pp/37458
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Jaya Max
+https://nonton.site:8443/provision/pp/37459
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",MTV Asia
+https://nonton.site:8443/provision/pp/37460
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",RTM Sports
+https://nonton.site:8443/provision/pp/37461
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Paramount Channel
+https://nonton.site:8443/provision/pp/37462
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Sony SAB
+https://nonton.site:8443/provision/pp/37463
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Sony SetMAX
+https://nonton.site:8443/provision/pp/37464
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Sony TV
+https://nonton.site:8443/provision/pp/37465
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Travel Channel HD
+https://nonton.site:8443/provision/pp/37466
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Astro Rania HD
+https://nonton.site:8443/provision/pp/37467
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",Astro Aura HD
+https://nonton.site:8443/provision/pp/37468
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="Movie",ATV
-https://nonton.site:8443/6894864475/7163819284/29899
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movie",AXN
-https://nonton.site:8443/6894864475/7163819284/9
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movie",Bioskop Indonesia
-https://nonton.site:8443/6894864475/7163819284/908
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Movie",Blue Ant Extreme HD
-https://nonton.site:8443/6894864475/7163819284/811
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movie",CCM
-https://nonton.site:8443/6894864475/7163819284/2118
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movie",Celestial Movies
-https://nonton.site:8443/6894864475/7163819284/5
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movie",Cinema World
-https://nonton.site:8443/6894864475/7163819284/1194
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax FHD
-https://nonton.site:8443/6894864475/7163819284/30185
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax ID
-https://nonton.site:8443/6894864475/7163819284/2156
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movie",Cinemax SD
-https://nonton.site:8443/6894864475/7163819284/26599
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movie",FLIK HD
-https://nonton.site:8443/6894864475/7163819284/29592
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies FHD
-https://nonton.site:8443/6894864475/7163819284/1478
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
-https://nonton.site:8443/6894864475/7163819284/99
-#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime HD
-https://nonton.site:8443/6894864475/7163819284/763
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies ID
-https://nonton.site:8443/6894864475/7163819284/14994
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX HD
-https://nonton.site:8443/6894864475/7163819284/95
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life HD
-https://nonton.site:8443/6894864475/7163819284/94
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
-https://nonton.site:8443/6894864475/7163819284/98
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movie",Galaxy Premium SD
-https://nonton.site:8443/6894864475/7163819284/29603
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movie",Galaxy SD
-https://nonton.site:8443/6894864475/7163819284/29604
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family FHD
-https://nonton.site:8443/6894864475/7163819284/30184
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
-https://nonton.site:8443/6894864475/7163819284/592
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family SD
-https://nonton.site:8443/6894864475/7163819284/26598
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
-https://nonton.site:8443/6894864475/7163819284/1496
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO HD
-https://nonton.site:8443/6894864475/7163819284/210
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Hits FHD
-https://nonton.site:8443/6894864475/7163819284/11492
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
-https://nonton.site:8443/6894864475/7163819284/591
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movie",HBO Hits SD
-https://nonton.site:8443/6894864475/7163819284/26596
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO SD
-https://nonton.site:8443/6894864475/7163819284/26595
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature FHD
-https://nonton.site:8443/6894864475/7163819284/1498
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature HD
-https://nonton.site:8443/6894864475/7163819284/873
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature SD
-https://nonton.site:8443/6894864475/7163819284/26597
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movie",HITS HD
-https://nonton.site:8443/6894864475/7163819284/1195
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movie",Hits Movie SD
-https://nonton.site:8443/6894864475/7163819284/957
-#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movie",IMC SD
-https://nonton.site:8443/6894864475/7163819284/35484
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture" tvg-logo="" group-title="Movie",IN: & Picture
-https://nonton.site:8443/6894864475/7163819284/31875
-#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="Movie",IN: &TV HD
-https://nonton.site:8443/6894864475/7163819284/31876
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movie",KIX HD
-https://nonton.site:8443/6894864475/7163819284/8
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movie",LifeTime HD
-https://nonton.site:8443/6894864475/7163819284/866
-#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movie",Red By HBO HD
-https://nonton.site:8443/6894864475/7163819284/4832
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Movie",Star Chinese Movies HD
-https://nonton.site:8443/6894864475/7163819284/780
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Movie",Star Chinese Movies Legend
-https://nonton.site:8443/6894864475/7163819284/1859
-#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="Movie",Star World
-https://nonton.site:8443/6894864475/7163819284/381
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie",Thrill
-https://nonton.site:8443/6894864475/7163819284/4
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movie",Warner TV ID HD
-https://nonton.site:8443/6894864475/7163819284/1533
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Movie",Zee Bioskop
-https://nonton.site:8443/6894864475/7163819284/7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",ATV
+https://nonton.site:8443/provision/pp/29899
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",AXN
+https://nonton.site:8443/provision/pp/9
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Bioskop Indonesia
+https://nonton.site:8443/provision/pp/908
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Blue Ant Extreme HD
+https://nonton.site:8443/provision/pp/811
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Celestial Movies
+https://nonton.site:8443/provision/pp/5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Cinema World
+https://nonton.site:8443/provision/pp/1194
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Cinemax FHD
+https://nonton.site:8443/provision/pp/30185
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Cinemax ID
+https://nonton.site:8443/provision/pp/2156
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FLIK HD
+https://nonton.site:8443/provision/pp/29592
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FMN
+https://nonton.site:8443/provision/pp/11489
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Action Movies FHD
+https://nonton.site:8443/provision/pp/1478
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Action Movies HD
+https://nonton.site:8443/provision/pp/99
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Crime HD
+https://nonton.site:8443/provision/pp/763
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Family Movies ID
+https://nonton.site:8443/provision/pp/14994
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX HD
+https://nonton.site:8443/provision/pp/95
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Life HD
+https://nonton.site:8443/provision/pp/94
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",FOX Movies HD
+https://nonton.site:8443/provision/pp/98
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Galaxy Premium 
+https://nonton.site:8443/provision/pp/29603
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Galaxy 
+https://nonton.site:8443/provision/pp/29604
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HBO Family FHD
+https://nonton.site:8443/provision/pp/30184
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HBO HD
+https://nonton.site:8443/provision/pp/210
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HBO Hits FHD
+https://nonton.site:8443/provision/pp/11492
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HBO Signature 
+https://nonton.site:8443/provision/pp/26597
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HITS HD
+https://nonton.site:8443/provision/pp/1195
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Hits Movie 
+https://nonton.site:8443/provision/pp/957
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",IMC 
+https://nonton.site:8443/provision/pp/35484
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",IN:&Picture
+https://nonton.site:8443/provision/pp/31875
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",IN:&TV HD
+https://nonton.site:8443/provision/pp/31876
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",KIX HD
+https://nonton.site:8443/provision/pp/8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",LifeTime HD
+https://nonton.site:8443/provision/pp/866
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Red By HBO HD
+https://nonton.site:8443/provision/pp/4832
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Star Chinese Movies HD
+https://nonton.site:8443/provision/pp/780
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Star Chinese Movies Legend
+https://nonton.site:8443/provision/pp/1859
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Star World
+https://nonton.site:8443/provision/pp/381
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Thrill
+https://nonton.site:8443/provision/pp/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Warner TV ID HD
+https://nonton.site:8443/provision/pp/1533
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Zee Bioskop
+https://nonton.site:8443/provision/pp/7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Animal Planet HD
+https://nonton.site:8443/provision/pp/358
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",BBC Earth
+https://nonton.site:8443/provision/pp/385
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Crime Investigation
+https://nonton.site:8443/provision/pp/332
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Da Vinci Learning
+https://nonton.site:8443/provision/pp/36729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Discovery Asia
+https://nonton.site:8443/provision/pp/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Discovery Channel HD
+https://nonton.site:8443/provision/pp/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Discovery Science HD
+https://nonton.site:8443/provision/pp/408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Discovery Shed
+https://nonton.site:8443/provision/pp/333
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Discovery Turbo
+https://nonton.site:8443/provision/pp/462
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",History FHD
+https://nonton.site:8443/provision/pp/8131
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",History HD
+https://nonton.site:8443/provision/pp/718
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Lingua Channel
+https://nonton.site:8443/provision/pp/14944
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Love Nature 4K
+https://nonton.site:8443/provision/pp/36767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Nat Geo HD
+https://nonton.site:8443/provision/pp/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Nat Geo People HD
+https://nonton.site:8443/provision/pp/455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Nat Geo Wild HD
+https://nonton.site:8443/provision/pp/97
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Ruang Terampil
+https://nonton.site:8443/provision/pp/36731
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Smithsonian Channel
+https://nonton.site:8443/provision/pp/35998
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",idku
+https://nonton.site:8443/provision/pp/36730
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",AFN HD
+https://nonton.site:8443/provision/pp/807
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",BBC Lifestyle HD
+https://nonton.site:8443/provision/pp/36766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Blue Ant Entertainment HD
+https://nonton.site:8443/provision/pp/1506
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Citra Drama
+https://nonton.site:8443/provision/pp/905
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",DMAX
+https://nonton.site:8443/provision/pp/483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Eat & Go
+https://nonton.site:8443/provision/pp/26979
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Every Good Game
+https://nonton.site:8443/provision/pp/921
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Fashion TV
+https://nonton.site:8443/provision/pp/280
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",HGTV
+https://nonton.site:8443/provision/pp/537
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Insert
+https://nonton.site:8443/provision/pp/1763
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",NHK World Japan
+https://nonton.site:8443/provision/pp/785
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",TLC English
+https://nonton.site:8443/provision/pp/351
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",TLC HD
+https://nonton.site:8443/provision/pp/352
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",TV 5 Monde Asie
+https://nonton.site:8443/provision/pp/786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Waku Waku Japan HD
+https://nonton.site:8443/provision/pp/717
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",K Drama
+https://nonton.site:8443/provision/pp/35769
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",K Plus
+https://nonton.site:8443/provision/pp/18
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",KBS World HD
+https://nonton.site:8443/provision/pp/15057
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",S GEM HD
+https://nonton.site:8443/provision/pp/770
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Sony ONE
+https://nonton.site:8443/provision/pp/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",TVN ID
+https://nonton.site:8443/provision/pp/767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",tVN Movies HD
+https://nonton.site:8443/provision/pp/927
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Channel V HD
+https://nonton.site:8443/provision/pp/766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Citra Dangdut
+https://nonton.site:8443/provision/pp/2207
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",i konser
+https://nonton.site:8443/provision/pp/29594
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",MTV
+https://nonton.site:8443/provision/pp/281
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Chinese Drama
+https://nonton.site:8443/provision/pp/36733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",CTI Asia
+https://nonton.site:8443/provision/pp/29602
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",ETTV Asia
+https://nonton.site:8443/provision/pp/29597
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Formosa
+https://nonton.site:8443/provision/pp/29601
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Kungfu TV
+https://nonton.site:8443/provision/pp/29598
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",TVBS News
+https://nonton.site:8443/provision/pp/29600
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",Zhejiang International
+https://nonton.site:8443/provision/pp/29595
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",AR:MBC Action HD
+https://nonton.site:8443/provision/pp/2564
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",AR:MBC Drama HD
+https://nonton.site:8443/provision/pp/2565
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MOVIE-ENTER",AR:MBC Variety HD
+https://nonton.site:8443/provision/pp/2567
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Animax
+https://nonton.site:8443/provision/pp/3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Aniplus
+https://nonton.site:8443/provision/pp/2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Baby First
+https://nonton.site:8443/provision/pp/1204
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Baby TV
+https://nonton.site:8443/provision/pp/296
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Boomerang ID
+https://nonton.site:8443/provision/pp/305
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Cartoon Network ID HD
+https://nonton.site:8443/provision/pp/680
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",CBeebies
+https://nonton.site:8443/provision/pp/491
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Disney Channel
+https://nonton.site:8443/provision/pp/306
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Disney Channel ID
+https://nonton.site:8443/provision/pp/3479
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Disney Junior
+https://nonton.site:8443/provision/pp/213
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Disney UK
+https://nonton.site:8443/provision/pp/2336
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Disney XD
+https://nonton.site:8443/provision/pp/104
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Dream Works HD
+https://nonton.site:8443/provision/pp/32529
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Duck TV
+https://nonton.site:8443/provision/pp/1854
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Dunia Anak
+https://nonton.site:8443/provision/pp/907
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Horee
+https://nonton.site:8443/provision/pp/14106
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",My Kidz
+https://nonton.site:8443/provision/pp/1483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Nick Jr 2
+https://nonton.site:8443/provision/pp/341
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Nick Jr ID
+https://nonton.site:8443/provision/pp/522
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Nick Toons
+https://nonton.site:8443/provision/pp/335
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Nickelodeon ID
+https://nonton.site:8443/provision/pp/962
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Toonmax
+https://nonton.site:8443/provision/pp/1116
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",XingXong
+https://nonton.site:8443/provision/pp/36764
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@KIDS-VISION",Zoo Moo HD
+https://nonton.site:8443/provision/pp/14104
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet HD
-https://nonton.site:8443/6894864475/7163819284/358
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Knowledge",BBC Earth
-https://nonton.site:8443/6894864475/7163819284/385
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge",Crime Investigation
-https://nonton.site:8443/6894864475/7163819284/332
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="Knowledge",Da Vinci Learning
-https://nonton.site:8443/6894864475/7163819284/36729
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia
-https://nonton.site:8443/6894864475/7163819284/779
-#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Knowledge",Discovery Channel HD
-https://nonton.site:8443/6894864475/7163819284/165
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science HD
-https://nonton.site:8443/6894864475/7163819284/408
-#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="Knowledge",Discovery Shed
-https://nonton.site:8443/6894864475/7163819284/333
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-https://nonton.site:8443/6894864475/7163819284/462
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History FHD
-https://nonton.site:8443/6894864475/7163819284/8131
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Knowledge",History HD
-https://nonton.site:8443/6894864475/7163819284/718
-#EXTINF:-1 tvg-id="" tvg-name="Lingua Channel" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="Knowledge",Lingua Channel
-https://nonton.site:8443/6894864475/7163819284/14944
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Knowledge",Love Nature 4K
-https://nonton.site:8443/6894864475/7163819284/36767
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Knowledge",Nat Geo HD
-https://nonton.site:8443/6894864475/7163819284/96
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Knowledge",Nat Geo People HD
-https://nonton.site:8443/6894864475/7163819284/455
-#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Knowledge",Nat Geo Wild HD
-https://nonton.site:8443/6894864475/7163819284/97
-#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="" group-title="Knowledge",Ruang Terampil
-https://nonton.site:8443/6894864475/7163819284/36731
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
-https://nonton.site:8443/6894864475/7163819284/35998
-#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="Knowledge",TV Edukasi
-https://nonton.site:8443/6894864475/7163819284/36732
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",BeIN Sport 1 ID
+https://nonton.site:8443/provision/pp/728
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",BeIN Sport 2 ID
+https://nonton.site:8443/provision/pp/729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Box Nation
+https://nonton.site:8443/provision/pp/499
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",FIGHT BOX
+https://nonton.site:8443/provision/pp/501
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Fight Sports
+https://nonton.site:8443/provision/pp/784
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Fox Sports 1 HD
+https://nonton.site:8443/provision/pp/51
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Fox Sports 2 HD
+https://nonton.site:8443/provision/pp/102
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Fox Sports 3 HD
+https://nonton.site:8443/provision/pp/101
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Golf Channel FHD
+https://nonton.site:8443/provision/pp/561
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Lax Sports Network
+https://nonton.site:8443/provision/pp/25212
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",NBA TV HD
+https://nonton.site:8443/provision/pp/3099
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",NBA TV HD US
+https://nonton.site:8443/provision/pp/243
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Red Bull TV
+https://nonton.site:8443/provision/pp/36387
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Ten Golf HD
+https://nonton.site:8443/provision/pp/224
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Tennis Channel
+https://nonton.site:8443/provision/pp/482
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Tennis Channel 2
+https://nonton.site:8443/provision/pp/19168
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",UFC FHD
+https://nonton.site:8443/provision/pp/2401
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",UFC Live Event 1
+https://nonton.site:8443/provision/pp/36400
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",WWE Network
+https://nonton.site:8443/provision/pp/299
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SPORT-VISION",Sky Sport F1
+https://nonton.site:8443/provision/pp/37328
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
-https://nonton.site:8443/6894864475/7163819284/3
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus
-https://nonton.site:8443/6894864475/7163819284/2
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
-https://nonton.site:8443/6894864475/7163819284/1204
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-https://nonton.site:8443/6894864475/7163819284/296
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
-https://nonton.site:8443/6894864475/7163819284/305
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
-https://nonton.site:8443/6894864475/7163819284/680
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
-https://nonton.site:8443/6894864475/7163819284/491
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-https://nonton.site:8443/6894864475/7163819284/306
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
-https://nonton.site:8443/6894864475/7163819284/3479
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
-https://nonton.site:8443/6894864475/7163819284/213
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="Kids",Disney UK
-https://nonton.site:8443/6894864475/7163819284/2336
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
-https://nonton.site:8443/6894864475/7163819284/104
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="Kids",Dream Works HD
-https://nonton.site:8443/6894864475/7163819284/32529
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Kids",Duck TV
-https://nonton.site:8443/6894864475/7163819284/1854
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Kids",Dunia Anak
-https://nonton.site:8443/6894864475/7163819284/907
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
-https://nonton.site:8443/6894864475/7163819284/14106
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
-https://nonton.site:8443/6894864475/7163819284/1483
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
-https://nonton.site:8443/6894864475/7163819284/341
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr ID
-https://nonton.site:8443/6894864475/7163819284/522
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick Toons
-https://nonton.site:8443/6894864475/7163819284/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
-https://nonton.site:8443/6894864475/7163819284/962
-#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Kids",Toonmax
-https://nonton.site:8443/6894864475/7163819284/1116
-#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="Kids",XingXong
-https://nonton.site:8443/6894864475/7163819284/36764
-#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo HD
-https://nonton.site:8443/6894864475/7163819284/14104
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Antara TV
+https://nonton.site:8443/provision/pp/32586
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",ANTV
+https://nonton.site:8443/provision/pp/31
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Bali TV
+https://nonton.site:8443/provision/pp/889
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",DAAI TV
+https://nonton.site:8443/provision/pp/21
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Dunia Lain
+https://nonton.site:8443/provision/pp/910
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Hope Channel
+https://nonton.site:8443/provision/pp/30183
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Indosiar
+https://nonton.site:8443/provision/pp/1845
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Jak TV
+https://nonton.site:8443/provision/pp/1210
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",JTV
+https://nonton.site:8443/provision/pp/135
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Life
+https://nonton.site:8443/provision/pp/1772
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",NET TV
+https://nonton.site:8443/provision/pp/24
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",NET TV FHD
+https://nonton.site:8443/provision/pp/78
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Rajawali TV
+https://nonton.site:8443/provision/pp/37
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",SCTV
+https://nonton.site:8443/provision/pp/32
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",SCTV HD
+https://nonton.site:8443/provision/pp/931
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Trans 7
+https://nonton.site:8443/provision/pp/35
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Trans 7 FHD
+https://nonton.site:8443/provision/pp/930
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Trans TV
+https://nonton.site:8443/provision/pp/34
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Trans TV FHD
+https://nonton.site:8443/provision/pp/929
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",U Channel
+https://nonton.site:8443/provision/pp/1208
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Kontes Nyanyi
+https://nonton.site:8443/provision/pp/36958
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Aljazeera EN
+https://nonton.site:8443/provision/pp/89
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",BBC World News HD
+https://nonton.site:8443/provision/pp/789
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Berita Satu News
+https://nonton.site:8443/provision/pp/136
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Bloomberg
+https://nonton.site:8443/provision/pp/788
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Bloomberg TV Asia
+https://nonton.site:8443/provision/pp/137
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",CGTN News
+https://nonton.site:8443/provision/pp/15070
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Channel News Asia
+https://nonton.site:8443/provision/pp/1191
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",CNBC Indonesia
+https://nonton.site:8443/provision/pp/1512
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",CNN Indonesia
+https://nonton.site:8443/provision/pp/44
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",CNN Int
+https://nonton.site:8443/provision/pp/1200
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",DW TV Asia
+https://nonton.site:8443/provision/pp/205
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",France 24
+https://nonton.site:8443/provision/pp/787
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",INEWS HD
+https://nonton.site:8443/provision/pp/2459
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Kompas TV
+https://nonton.site:8443/provision/pp/30
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Metro TV
+https://nonton.site:8443/provision/pp/52
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Metro TV HD
+https://nonton.site:8443/provision/pp/1697
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",Russia Today
+https://nonton.site:8443/provision/pp/36765
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",TV ONE
+https://nonton.site:8443/provision/pp/29
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ID-VISION",TVRI
+https://nonton.site:8443/provision/pp/36
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=".idku" tvg-logo="" group-title="Variety",.idku
-https://nonton.site:8443/6894864475/7163819284/36730
-#EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="" group-title="Variety",AFN HD
-https://nonton.site:8443/6894864475/7163819284/807
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png" group-title="Variety",BBC Lifestyle HD
-https://nonton.site:8443/6894864475/7163819284/36766
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment HD
-https://nonton.site:8443/6894864475/7163819284/1506
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="Variety",Citra Drama
-https://nonton.site:8443/6894864475/7163819284/905
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="Variety",DMAX
-https://nonton.site:8443/6894864475/7163819284/483
-#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="" group-title="Variety",Eat & Go
-https://nonton.site:8443/6894864475/7163819284/26979
-#EXTINF:-1 tvg-id="" tvg-name="Every Good Game" tvg-logo="" group-title="Variety",Every Good Game
-https://nonton.site:8443/6894864475/7163819284/921
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="Variety",Fashion TV
-https://nonton.site:8443/6894864475/7163819284/280
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
-https://nonton.site:8443/6894864475/7163819284/537
-#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Variety",Insert
-https://nonton.site:8443/6894864475/7163819284/1763
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="Variety",NHK World Japan
-https://nonton.site:8443/6894864475/7163819284/785
-#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Variety",TLC English
-https://nonton.site:8443/6894864475/7163819284/351
-#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC HD
-https://nonton.site:8443/6894864475/7163819284/352
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="" group-title="Variety",TV 5 Monde Asie
-https://nonton.site:8443/6894864475/7163819284/786
-#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety",Waku Waku Japan HD
-https://nonton.site:8443/6894864475/7163819284/717
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea TV",K Plus
-https://nonton.site:8443/6894864475/7163819284/18
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="" group-title="Korea TV",KBS World HD
-https://nonton.site:8443/6894864475/7163819284/15057
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="Korea TV",S GEM HD
-https://nonton.site:8443/6894864475/7163819284/770
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea TV",Sony ONE
-https://nonton.site:8443/6894864475/7163819284/19
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea TV",TVN ID
-https://nonton.site:8443/6894864475/7163819284/767
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="Korea TV",tVN Movies HD
-https://nonton.site:8443/6894864475/7163819284/927
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="" group-title="China",Chinese Drama
-https://nonton.site:8443/6894864475/7163819284/36733
-#EXTINF:-1 tvg-id="" tvg-name="CTI Asia" tvg-logo="" group-title="China",CTI Asia
-https://nonton.site:8443/6894864475/7163819284/29602
-#EXTINF:-1 tvg-id="" tvg-name="ETTV Asia" tvg-logo="https://www.nowtv.now.com/media/logo/162-wbg-e.png" group-title="China",ETTV Asia
-https://nonton.site:8443/6894864475/7163819284/29597
-#EXTINF:-1 tvg-id="" tvg-name="Formosa" tvg-logo="" group-title="China",Formosa
-https://nonton.site:8443/6894864475/7163819284/29601
-#EXTINF:-1 tvg-id="" tvg-name="Kungfu TV" tvg-logo="" group-title="China",Kungfu TV
-https://nonton.site:8443/6894864475/7163819284/29598
-#EXTINF:-1 tvg-id="" tvg-name="TVBS News" tvg-logo="" group-title="China",TVBS News
-https://nonton.site:8443/6894864475/7163819284/29600
-#EXTINF:-1 tvg-id="" tvg-name="Zhejiang International" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" group-title="China",Zhejiang International
-https://nonton.site:8443/6894864475/7163819284/29595
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA HD" tvg-logo="" group-title="Astro",MY - ASTRO RIA HD
-https://nonton.site:8443/6894864475/7163819284/37332
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PRIMA HD" tvg-logo="" group-title="Astro",MY - ASTRO PRIMA HD
-https://nonton.site:8443/6894864475/7163819284/37333
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS HD" tvg-logo="" group-title="Astro",MY - ASTRO OASIS HD
-https://nonton.site:8443/6894864475/7163819284/37334
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO WARNA HD" tvg-logo="" group-title="Astro",MY - ASTRO WARNA HD
-https://nonton.site:8443/6894864475/7163819284/37335
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO NAURA" tvg-logo="" group-title="Astro",MY - ASTRO NAURA
-https://nonton.site:8443/6894864475/7163819284/37336
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV ALHIJRAH" tvg-logo="" group-title="Astro",MY - TV ALHIJRAH
-https://nonton.site:8443/6894864475/7163819284/37337
-#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP RUUMA" tvg-logo="" group-title="Astro",MY - GO SHOP RUUMA
-https://nonton.site:8443/6894864475/7163819284/37338
-#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP GAAYA" tvg-logo="" group-title="Astro",MY - GO SHOP GAAYA
-https://nonton.site:8443/6894864475/7163819284/37339
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC" tvg-logo="" group-title="Astro",MY - SUN MUSIC
-https://nonton.site:8443/6894864475/7163819284/37340
-#EXTINF:-1 tvg-id="" tvg-name="MY - CHUTTI TV" tvg-logo="" group-title="Astro",MY - CHUTTI TV
-https://nonton.site:8443/6894864475/7163819284/37341
-#EXTINF:-1 tvg-id="" tvg-name="MY - ADITHYA" tvg-logo="" group-title="Astro",MY - ADITHYA
-https://nonton.site:8443/6894864475/7163819284/37342
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE Tamil HD" tvg-logo="" group-title="Astro",MY - ZEE Tamil HD
-https://nonton.site:8443/6894864475/7163819284/37343
-#EXTINF:-1 tvg-id="" tvg-name="MY - VINMEEN HD" tvg-logo="" group-title="Astro",MY - VINMEEN HD
-https://nonton.site:8443/6894864475/7163819284/37344
-#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY HD" tvg-logo="" group-title="Astro",MY - STAR VIJAY HD
-https://nonton.site:8443/6894864475/7163819284/37345
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL" tvg-logo="" group-title="Astro",MY - COLORS TAMIL
-https://nonton.site:8443/6894864475/7163819284/37346
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV HD" tvg-logo="" group-title="Astro",MY - SUN TV HD
-https://nonton.site:8443/6894864475/7163819284/37347
-#EXTINF:-1 tvg-id="" tvg-name="MY - BOLLYONE HD" tvg-logo="" group-title="Astro",MY - BOLLYONE HD
-https://nonton.site:8443/6894864475/7163819284/37348
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="" group-title="Astro",MY - iQIYI HD
-https://nonton.site:8443/6894864475/7163819284/37349
-#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP 2" tvg-logo="" group-title="Astro",MY - GO SHOP 2
-https://nonton.site:8443/6894864475/7163819284/37350
-#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="" group-title="Astro",MY - XIAO TAI YANG HD
-https://nonton.site:8443/6894864475/7163819284/37351
-#EXTINF:-1 tvg-id="" tvg-name="MY - AEC HD" tvg-logo="" group-title="Astro",MY - AEC HD
-https://nonton.site:8443/6894864475/7163819284/37352
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="" group-title="Astro",MY - SHUANG XING HD
-https://nonton.site:8443/6894864475/7163819284/37353
-#EXTINF:-1 tvg-id="" tvg-name="MY - QUAN JIA HD" tvg-logo="" group-title="Astro",MY - QUAN JIA HD
-https://nonton.site:8443/6894864475/7163819284/37354
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL HD" tvg-logo="" group-title="Astro",MY - CELESTIAL HD
-https://nonton.site:8443/6894864475/7163819284/37355
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="" group-title="Astro",MY - TVB JADE
-https://nonton.site:8443/6894864475/7163819284/37356
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="" group-title="Astro",MY - AOD 351 HD
-https://nonton.site:8443/6894864475/7163819284/37357
-#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA" tvg-logo="" group-title="Astro",MY - CTI ASIA
-https://nonton.site:8443/6894864475/7163819284/37358
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB E-NEWS" tvg-logo="" group-title="Astro",MY - TVB E-NEWS
-https://nonton.site:8443/6894864475/7163819284/37359
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="" group-title="Astro",MY - TVB XING HE HD
-https://nonton.site:8443/6894864475/7163819284/37360
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="" group-title="Astro",MY - TVBS ASIA HD
-https://nonton.site:8443/6894864475/7163819284/37361
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCM" tvg-logo="" group-title="Astro",MY - CCM
-https://nonton.site:8443/6894864475/7163819284/37362
-#EXTINF:-1 tvg-id="" tvg-name="MY - HUA HEE DAI HD" tvg-logo="" group-title="Astro",MY - HUA HEE DAI HD
-https://nonton.site:8443/6894864475/7163819284/37363
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HD" tvg-logo="" group-title="Astro",MY - CCTV4 HD
-https://nonton.site:8443/6894864475/7163819284/37364
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 352 HD" tvg-logo="" group-title="Astro",MY - AOD 352 HD
-https://nonton.site:8443/6894864475/7163819284/37365
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 353 HD" tvg-logo="" group-title="Astro",MY - AOD 353 HD
-https://nonton.site:8443/6894864475/7163819284/37366
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 354 HD" tvg-logo="" group-title="Astro",MY - AOD 354 HD
-https://nonton.site:8443/6894864475/7163819284/37367
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 355 HD" tvg-logo="" group-title="Astro",MY - AOD 355 HD
-https://nonton.site:8443/6894864475/7163819284/37368
-#EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="" group-title="Astro",MY - KBS World HD
-https://nonton.site:8443/6894864475/7163819284/37369
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE HD" tvg-logo="" group-title="Astro",MY - ONE HD
-https://nonton.site:8443/6894864475/7163819284/37370
-#EXTINF:-1 tvg-id="" tvg-name="MY - Oh!K HD" tvg-logo="" group-title="Astro",MY - Oh!K HD
-https://nonton.site:8443/6894864475/7163819284/37371
-#EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="" group-title="Astro",MY - tvN HD
-https://nonton.site:8443/6894864475/7163819284/37372
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES HD" tvg-logo="" group-title="Astro",MY - HITS MOVIES HD
-https://nonton.site:8443/6894864475/7163819284/37373
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="" group-title="Astro",MY - HBO HD
-https://nonton.site:8443/6894864475/7163819284/37374
-#EXTINF:-1 tvg-id="" tvg-name="MY - CINEMAX HD" tvg-logo="" group-title="Astro",MY - CINEMAX HD
-https://nonton.site:8443/6894864475/7163819284/37375
-#EXTINF:-1 tvg-id="" tvg-name="MY - tvN Movies" tvg-logo="" group-title="Astro",MY - tvN Movies
-https://nonton.site:8443/6894864475/7163819284/37376
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI" tvg-logo="" group-title="Astro",MY - ASTRO AWANI
-https://nonton.site:8443/6894864475/7163819284/37377
-#EXTINF:-1 tvg-id="" tvg-name="MY - BNC" tvg-logo="" group-title="Astro",MY - BNC
-https://nonton.site:8443/6894864475/7163819284/37378
-#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN" tvg-logo="" group-title="Astro",MY - CGTN
-https://nonton.site:8443/6894864475/7163819284/37379
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNN HD" tvg-logo="" group-title="Astro",MY - CNN HD
-https://nonton.site:8443/6894864475/7163819284/37380
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC News HD" tvg-logo="" group-title="Astro",MY - BBC News HD
-https://nonton.site:8443/6894864475/7163819284/37381
-#EXTINF:-1 tvg-id="" tvg-name="MY - AL JAZEERA HD" tvg-logo="" group-title="Astro",MY - AL JAZEERA HD
-https://nonton.site:8443/6894864475/7163819284/37382
-#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS HD" tvg-logo="" group-title="Astro",MY - SKY NEWS HD
-https://nonton.site:8443/6894864475/7163819284/37383
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNA HD" tvg-logo="" group-title="Astro",MY - CNA HD
-https://nonton.site:8443/6894864475/7163819284/37384
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC" tvg-logo="" group-title="Astro",MY - CNBC
-https://nonton.site:8443/6894864475/7163819284/37385
-#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG TV" tvg-logo="" group-title="Astro",MY - BLOOMBERG TV
-https://nonton.site:8443/6894864475/7163819284/37386
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA" tvg-logo="" group-title="Astro",MY - ABC AUSTRALIA
-https://nonton.site:8443/6894864475/7163819284/37387
-#EXTINF:-1 tvg-id="" tvg-name="MY - NGW HD" tvg-logo="" group-title="Astro",MY - NGW HD
-https://nonton.site:8443/6894864475/7163819284/37388
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO HD" tvg-logo="" group-title="Astro",MY - NAT GEO HD
-https://nonton.site:8443/6894864475/7163819284/37389
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY HD" tvg-logo="" group-title="Astro",MY - DISCOVERY HD
-https://nonton.site:8443/6894864475/7163819284/37390
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY ASIA" tvg-logo="" group-title="Astro",MY - DISCOVERY ASIA
-https://nonton.site:8443/6894864475/7163819284/37391
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISC SCI HD" tvg-logo="" group-title="Astro",MY - DISC SCI HD
-https://nonton.site:8443/6894864475/7163819284/37392
-#EXTINF:-1 tvg-id="" tvg-name="MY - HISTORY HD" tvg-logo="" group-title="Astro",MY - HISTORY HD
-https://nonton.site:8443/6894864475/7163819284/37393
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIMAL PLANET HD" tvg-logo="" group-title="Astro",MY - ANIMAL PLANET HD
-https://nonton.site:8443/6894864475/7163819284/37394
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV UPSR" tvg-logo="" group-title="Astro",MY - TUTOR TV UPSR
-https://nonton.site:8443/6894864475/7163819284/37395
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV PT3" tvg-logo="" group-title="Astro",MY - TUTOR TV PT3
-https://nonton.site:8443/6894864475/7163819284/37396
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV SPM" tvg-logo="" group-title="Astro",MY - TUTOR TV SPM
-https://nonton.site:8443/6894864475/7163819284/37397
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVIQ" tvg-logo="" group-title="Astro",MY - TVIQ
-https://nonton.site:8443/6894864475/7163819284/37398
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CERIA HD" tvg-logo="" group-title="Astro",MY - ASTRO CERIA HD
-https://nonton.site:8443/6894864475/7163819284/37399
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISNEY XD HD" tvg-logo="" group-title="Astro",MY - DISNEY XD HD
-https://nonton.site:8443/6894864475/7163819284/37400
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISNEY JUNIOR" tvg-logo="" group-title="Astro",MY - DISNEY JUNIOR
-https://nonton.site:8443/6894864475/7163819284/37401
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISNEY CHANNEL HD" tvg-logo="" group-title="Astro",MY - DISNEY CHANNEL HD
-https://nonton.site:8443/6894864475/7163819284/37402
-#EXTINF:-1 tvg-id="" tvg-name="MY - CARTOON NTWK HD" tvg-logo="" group-title="Astro",MY - CARTOON NTWK HD
-https://nonton.site:8443/6894864475/7163819284/37403
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELODEON HD" tvg-logo="" group-title="Astro",MY - NICKELODEON HD
-https://nonton.site:8443/6894864475/7163819284/37404
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="" group-title="Astro",MY - NICK JR
-https://nonton.site:8443/6894864475/7163819284/37405
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN HD" tvg-logo="" group-title="Astro",MY - AXN HD
-https://nonton.site:8443/6894864475/7163819284/37406
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO HELLO" tvg-logo="" group-title="Astro",MY - ASTRO HELLO
-https://nonton.site:8443/6894864475/7163819284/37407
-#EXTINF:-1 tvg-id="" tvg-name="MY - KIX HD" tvg-logo="" group-title="Astro",MY - KIX HD
-https://nonton.site:8443/6894864475/7163819284/37408
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS HD" tvg-logo="" group-title="Astro",MY - HITS HD
-https://nonton.site:8443/6894864475/7163819284/37409
-#EXTINF:-1 tvg-id="" tvg-name="MY - TLC HD" tvg-logo="" group-title="Astro",MY - TLC HD
-https://nonton.site:8443/6894864475/7163819284/37410
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NTWK HD" tvg-logo="" group-title="Astro",MY - FOOD NTWK HD
-https://nonton.site:8443/6894864475/7163819284/37411
-#EXTINF:-1 tvg-id="" tvg-name="MY - AFN HD" tvg-logo="" group-title="Astro",MY - AFN HD
-https://nonton.site:8443/6894864475/7163819284/37412
-#EXTINF:-1 tvg-id="" tvg-name="MY - NATGEO PEOPLE" tvg-logo="" group-title="Astro",MY - NATGEO PEOPLE
-https://nonton.site:8443/6894864475/7163819284/37413
-#EXTINF:-1 tvg-id="" tvg-name="MY - WARNER TV" tvg-logo="" group-title="Astro",MY - WARNER TV
-https://nonton.site:8443/6894864475/7163819284/37414
-#EXTINF:-1 tvg-id="" tvg-name="MY - C&I HD" tvg-logo="" group-title="Astro",MY - C&I HD
-https://nonton.site:8443/6894864475/7163819284/37415
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV HD" tvg-logo="" group-title="Astro",MY - HGTV HD
-https://nonton.site:8443/6894864475/7163819284/37416
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX HD" tvg-logo="" group-title="Astro",MY - DMAX HD
-https://nonton.site:8443/6894864475/7163819284/37417
-#EXTINF:-1 tvg-id="" tvg-name="MY - COMEDY CENTRAL" tvg-logo="" group-title="Astro",MY - COMEDY CENTRAL
-https://nonton.site:8443/6894864475/7163819284/37418
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV" tvg-logo="" group-title="Astro",MY - MTV
-https://nonton.site:8443/6894864475/7163819284/37419
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIMAX" tvg-logo="" group-title="Astro",MY - ANIMAX
-https://nonton.site:8443/6894864475/7163819284/37420
-#EXTINF:-1 tvg-id="" tvg-name="MY - eGG Network" tvg-logo="" group-title="Astro",MY - eGG Network
-https://nonton.site:8443/6894864475/7163819284/37421
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="" group-title="Astro",MY - ASTRO ARENA HD
-https://nonton.site:8443/6894864475/7163819284/37422
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HD" tvg-logo="" group-title="Astro",MY - COLORS HD
-https://nonton.site:8443/6894864475/7163819284/37427
-#EXTINF:-1 tvg-id="" tvg-name="MY - VAANAVIL" tvg-logo="" group-title="Astro",MY - VAANAVIL
-https://nonton.site:8443/6894864475/7163819284/37428
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS HD" tvg-logo="" group-title="Astro",MY - FOX SPORTS HD
-https://nonton.site:8443/6894864475/7163819284/37429
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS 2 HD" tvg-logo="" group-title="Astro",MY - FOX SPORTS 2 HD
-https://nonton.site:8443/6894864475/7163819284/37430
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS 3 HD" tvg-logo="" group-title="Astro",MY - FOX SPORTS 3 HD
-https://nonton.site:8443/6894864475/7163819284/37431
-#EXTINF:-1 tvg-id="" tvg-name="MY - beIN SPORTS" tvg-logo="" group-title="Astro",MY - beIN SPORTS
-https://nonton.site:8443/6894864475/7163819284/37432
-#EXTINF:-1 tvg-id="" tvg-name="MY - bEIN MAX" tvg-logo="" group-title="Astro",MY - bEIN MAX
-https://nonton.site:8443/6894864475/7163819284/37433
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORT HD" tvg-logo="" group-title="Astro",MY - EUROSPORT HD
-https://nonton.site:8443/6894864475/7163819284/37434
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK" tvg-logo="" group-title="Astro",MY - WWE NETWORK
-https://nonton.site:8443/6894864475/7163819284/37435
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="" group-title="Astro",MY - GOLF CHANNEL HD
-https://nonton.site:8443/6894864475/7163819284/37436
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RUGBY PASS TV" tvg-logo="" group-title="Astro",MY - ASTRO RUGBY PASS TV
-https://nonton.site:8443/6894864475/7163819284/37437
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET" tvg-logo="" group-title="Astro",MY - ASTRO CRICKET
-https://nonton.site:8443/6894864475/7163819284/37438
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIPLUS HD" tvg-logo="" group-title="Astro",MY - ANIPLUS HD
-https://nonton.site:8443/6894864475/7163819284/37439
-#EXTINF:-1 tvg-id="" tvg-name="MY - KPLUS HD" tvg-logo="" group-title="Astro",MY - KPLUS HD
-https://nonton.site:8443/6894864475/7163819284/37440
-#EXTINF:-1 tvg-id="" tvg-name="MY - DW HD" tvg-logo="" group-title="Astro",MY - DW HD
-https://nonton.site:8443/6894864475/7163819284/37441
-#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE24 HD" tvg-logo="" group-title="Astro",MY - FRANCE24 HD
-https://nonton.site:8443/6894864475/7163819284/37442
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX Action Movies" tvg-logo="" group-title="Astro",MY - FOX Action Movies
-https://nonton.site:8443/6894864475/7163819284/37443
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX HD" tvg-logo="" group-title="Astro",MY - FOX HD
-https://nonton.site:8443/6894864475/7163819284/37444
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX Family Movies" tvg-logo="" group-title="Astro",MY - FOX Family Movies
-https://nonton.site:8443/6894864475/7163819284/37445
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1" tvg-logo="" group-title="Astro",MY - TV1
-https://nonton.site:8443/6894864475/7163819284/37446
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2" tvg-logo="" group-title="Astro",MY - TV2
-https://nonton.site:8443/6894864475/7163819284/37447
-#EXTINF:-1 tvg-id="" tvg-name="MY - Baby TV" tvg-logo="" group-title="Astro",MY - Baby TV
-https://nonton.site:8443/6894864475/7163819284/37448
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC Earth HD" tvg-logo="" group-title="Astro",MY - BBC Earth HD
-https://nonton.site:8443/6894864475/7163819284/37449
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC Lifestyle" tvg-logo="" group-title="Astro",MY - BBC Lifestyle
-https://nonton.site:8443/6894864475/7163819284/37450
-#EXTINF:-1 tvg-id="" tvg-name="MY - Blue Ant Entertainment" tvg-logo="" group-title="Astro",MY - Blue Ant Entertainment
-https://nonton.site:8443/6894864475/7163819284/37451
-#EXTINF:-1 tvg-id="" tvg-name="MY - Blue Ant Extreme" tvg-logo="" group-title="Astro",MY - Blue Ant Extreme
-https://nonton.site:8443/6894864475/7163819284/37452
-#EXTINF:-1 tvg-id="" tvg-name="MY - Boomerang HD" tvg-logo="" group-title="Astro",MY - Boomerang HD
-https://nonton.site:8443/6894864475/7163819284/37453
-#EXTINF:-1 tvg-id="" tvg-name="MY - Cinema World HD" tvg-logo="" group-title="Astro",MY - Cinema World HD
-https://nonton.site:8443/6894864475/7163819284/37454
-#EXTINF:-1 tvg-id="" tvg-name="MY - Colors Cineplex" tvg-logo="" group-title="Astro",MY - Colors Cineplex
-https://nonton.site:8443/6894864475/7163819284/37455
-#EXTINF:-1 tvg-id="" tvg-name="MY - Dreamworks HD" tvg-logo="" group-title="Astro",MY - Dreamworks HD
-https://nonton.site:8443/6894864475/7163819284/37456
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX Life HD" tvg-logo="" group-title="Astro",MY - FOX Life HD
-https://nonton.site:8443/6894864475/7163819284/37457
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX Movies HD" tvg-logo="" group-title="Astro",MY - FOX Movies HD
-https://nonton.site:8443/6894864475/7163819284/37458
-#EXTINF:-1 tvg-id="" tvg-name="MY - Jaya Max" tvg-logo="" group-title="Astro",MY - Jaya Max
-https://nonton.site:8443/6894864475/7163819284/37459
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV Asia" tvg-logo="" group-title="Astro",MY - MTV Asia
-https://nonton.site:8443/6894864475/7163819284/37460
-#EXTINF:-1 tvg-id="" tvg-name="MY - RTM Sports" tvg-logo="" group-title="Astro",MY - RTM Sports
-https://nonton.site:8443/6894864475/7163819284/37461
-#EXTINF:-1 tvg-id="" tvg-name="MY - Paramount Channel" tvg-logo="" group-title="Astro",MY - Paramount Channel
-https://nonton.site:8443/6894864475/7163819284/37462
-#EXTINF:-1 tvg-id="" tvg-name="MY - Sony SAB" tvg-logo="" group-title="Astro",MY - Sony SAB
-https://nonton.site:8443/6894864475/7163819284/37463
-#EXTINF:-1 tvg-id="" tvg-name="MY - Sony SetMAX" tvg-logo="" group-title="Astro",MY - Sony SetMAX
-https://nonton.site:8443/6894864475/7163819284/37464
-#EXTINF:-1 tvg-id="" tvg-name="MY - Sony TV" tvg-logo="" group-title="Astro",MY - Sony TV
-https://nonton.site:8443/6894864475/7163819284/37465
-#EXTINF:-1 tvg-id="" tvg-name="MY - Travel Channel HD" tvg-logo="" group-title="Astro",MY - Travel Channel HD
-https://nonton.site:8443/6894864475/7163819284/37466
-#EXTINF:-1 tvg-id="" tvg-name="MY - Astro Rania HD" tvg-logo="" group-title="Astro",MY - Astro Rania HD
-https://nonton.site:8443/6894864475/7163819284/37467
-#EXTINF:-1 tvg-id="" tvg-name="MY - Astro Aura HD" tvg-logo="" group-title="Astro",MY - Astro Aura HD
-https://nonton.site:8443/6894864475/7163819284/37468
 
 
 
