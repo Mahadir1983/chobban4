@@ -521,8 +521,10 @@ http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1,group-title="Kidz",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 
-
-
+#EXTINF:-1 group-title="Movie Channel", ApFlix Movie 1
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 group-title="Movie Channel", ApFlix Movie 2
+http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
 #EXTINF:-1 group-title="Movie Channel", &FlixHD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie Channel", &PriveHD
@@ -702,13 +704,13 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 #EXTINF:-1 grouphttps://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8-title="Movie Channel", MGM Sci-Fi
 
 #EXTINF:-1 group-title="Movie Channel", MNX
-
+http://webo.asia:80/ghazanfar/ghazanfar/161882
 #EXTINF:-1 group-title="Movie Channel", MN+
 http://103.157.237.18:8000/play/730
 #EXTINF:-1 group-title="Movie Channel", Movie Max
 	
 #EXTINF:-1 group-title="Movie Channel", Movies Now
-
+http://webo.asia:80/ghazanfar/ghazanfar/20828
 #EXTINF:-1 group-title="Movie Channel", MovieMix
 
 #EXTINF:-1 group-title="Movie Channel", New Tv Super Movie
@@ -736,7 +738,7 @@ http://singamcloud.in:1935/rasinetwork/rasimovies/chunklist.m3u8
 #EXTINF:-1 group-title="Movie Channel", Reel PX Vintage
 
 #EXTINF:-1 group-title="Movie Channel", Romedy Now
- 
+http://webo.asia:80/ghazanfar/ghazanfar/16564
 #EXTINF:-1 group-title="Movie Channel", Runtime
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/sinema_indonesia.png", Sinema Indonesia
@@ -765,8 +767,11 @@ http://209.222.101.100:25461/tv/tv/22917
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="Movie Channel", Sony Movies Classic
 
-#EXTINF:-1 group-title="Movie Channel", Sony Pix
+#EXTINF:-1 group-title="Movie Channel", Sony Pix 1
 http://103.157.237.18:8000/play/711
+#EXTINF:-1 group-title="Movie Channel", Sony Pix 2
+http://webo.asia:80/ghazanfar/ghazanfar/161919
+
 #EXTINF:-1 group-title="Movie Channel", Sony SAB HD
 
 #EXTINF:-1 group-title="Movie Channel", Star HD
@@ -774,9 +779,9 @@ http://103.157.237.18:8000/play/711
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
-
+http://webo.asia:80/ghazanfar/ghazanfar/161932
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
-
+http://webo.asia:80/ghazanfar/ghazanfar/161933
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
 
 #EXTINF:-1 group-title="Movie Channel", Star World
