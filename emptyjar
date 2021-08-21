@@ -779,7 +779,7 @@ http://webo.asia:80/ghazanfar/ghazanfar/161919
 #EXTINF:-1 group-title="Movie Channel", Star Gold HD
 
 #EXTINF:-1 group-title="Movie Channel", Star Movies HD
-http://webo.asia:80/ghazanfar/ghazanfar/161932
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channel", Star Movies Select
 http://webo.asia:80/ghazanfar/ghazanfar/161933
 #EXTINF:-1 group-title="Movie Channel", Star Plus HD
@@ -929,8 +929,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Channel
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery Hindi
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1,group-title="Knowledge & Infotainment",Discovery HD
+
 #EXTINF:-1,group-title="Knowledge & Infotainment", Eat & Go
 http://iptvtree.net:8080/test-220471/4008/
 #EXTINF:-1, group-title="Knowledge & Infotainment",Fail Army
