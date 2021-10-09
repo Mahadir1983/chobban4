@@ -2946,7 +2946,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.202
 https://b-g-eu-4.betterstream.co:2222/v2-hls-playback/de8c62cdabf5ef746a04da3f34a0c53f38aab1eccb15b658fcd9efc4b18265c31fb3ed908dba0dbc482e399af9312f64fd575991977eb8aa61397a74b12eb39813b206e02a51304ad701c4fdd610d60e756c4639abdad08d87104ee87c705345d11834d272ef1505e62878f105f6ef987ac691412dfe22e63aef7ab68343bdf69aa664749426f5b1f3219ec52e2855c78f35923134717cfbad618348ffe937ff/720/index.m3u8
 
 #EXTM3U
-
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEyYTMzOTktMTVlNi00NWU0LWE3NTMtNmIwOTcxZGI2ODUzXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_FMjpg_UX1000_.jpg", Antaramasa (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Antaramasa.2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NTEzYWEtODExZC00YzgwLWI3YzItZThlNTMxNmM3MTVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1000_.jpg", Hutang 2D (2021)
@@ -3327,8 +3326,6 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Menanti.Hari.Esok.1977.1080
 https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2.2018.1080p.NF.WEB-DL.DDP5.1.x264-AON.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkODU3YjctZTY0Ni00NDU5LWIzYTEtMDY0NjYzNjczYzA0XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR2,0,182,268_AL_.jpg", Munafik
 https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.x264-PYPER.mkv
-
--= aseanmovie =-
 
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dz0Rnu1F8LB75D54EgJSzYwuW2r.jpg", Fighter in the Wind (2004)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fighter%20in%20the%20Wind%202004.mp4
@@ -3775,9 +3772,6 @@ https://tutu.yuhuu.workers.dev/Indonesia/Gundala%2520(2019)/Gundala.2019.WEB-DL.
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg", Lampor Keranda Terbang
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%20Terbang%20(2019).mp4
 
-
--= Toon =-
-
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg", Monster Hunter Legends Of The Guild (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Monster%20Hunter%20Legends%20Of%20The%20Guild%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021)
@@ -3932,8 +3926,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Frozen.mkv
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Frozen%2520II.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
-
--= indian =-
 
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/call-taxi-et00309647-31-03-2021-02-12-03.jpg", Call Taxi (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20Taxi%20(2021).mp4
@@ -4375,9 +4367,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil5/THE%20POWER
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/The%20White%20Tiger%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Wife
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wife%202021.mp4
-
-
--= english =-
 
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg", The Green Knight (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Green.Knight.2021.mp4
@@ -5315,8 +5304,6 @@ http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups2010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQZ", Grown Ups 2 - 2013
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups%202%202013.mp4
-
--= Pramlee =-
 
 #EXTINF:-1 group-title="Pramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg", Pendekar Bujang Lapok
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Pendekar_Bujang_Lapok_1959.MP4
