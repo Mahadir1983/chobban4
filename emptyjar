@@ -1,33 +1,33 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/TV1_Logo_2011.png/100px-TV1_Logo_2011.png", TV1 
-
+https://my.odtv.uk/live/9486331171/7860879594/207.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png", TV2 
-
+https://my.odtv.uk/live/9486331171/7860879594/208.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png", TV3
-
+https://my.odtv.uk/live/9486331171/7860879594/12.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png", NTV7 
-
+https://my.odtv.uk/live/9486331171/7860879594/30.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
-
+https://my.odtv.uk/live/9486331171/7860879594/31.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png", TV9 
-
+https://my.odtv.uk/live/9486331171/7860879594/32.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/80px-Drama_Sangat_HQ.jpg", Drama Sangat
-
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/150px-Okey_RTM.png", OKEY 
-
+https://my.odtv.uk/live/9486331171/7860879594/221.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png", RTM Sports HD 
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png", TV Alhijrah
-
+https://my.odtv.uk/live/9486331171/7860879594/24.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tvikim.my/images/logo-header-02.png", TV IKIM HD 
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1, group-title="Malaysia", Astro Boo 
-
+https://my.odtv.uk/live/9486331171/7860879594/71.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/FJ9sZJy.png", Astro Naura 
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/awani.png", Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/193.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bes.png", Saluran Berita RTM
 
 #EXTINF:-1, group-title="Malaysia", Parlimen Malaysia
@@ -37,13 +37,13 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1, group-title="Malaysia", TV Sarawak
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png", Bernama TV
-
+https://my.odtv.uk/live/9486331171/7860879594/78.ts
 #EXTINF:-1, group-title="Malaysia", Astro AEC
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Ceria
-
+https://my.odtv.uk/live/9486331171/7860879594/99.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ceria.png", Astro Citra
-
+https://my.odtv.uk/live/9486331171/7860879594/19.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Gaaya
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.imgur.com/52JsuOB.png", Astro Go Shop Raya
@@ -53,15 +53,15 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://i.ibb.co/qygYNHH/hello.png", Astro Hello
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_prima.png", Astro Prima
-
+https://my.odtv.uk/live/9486331171/7860879594/16.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_ria.png", Astro Ria
-
+https://my.odtv.uk/live/9486331171/7860879594/13.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Warna
-
+https://my.odtv.uk/live/9486331171/7860879594/18.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://macan.live/img/astro_warna.png", Astro Vaanavil
 
 #EXTINF:-1, group-title="Malaysia", Astro Oasis
-
+https://my.odtv.uk/live/9486331171/7860879594/17.ts
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png", Hypp Inspirasi
 
 #EXTINF:-1, group-title="Malaysia" tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/pesona.png", Hypp Pesona HD
@@ -70,6 +70,15 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1, group-title="Malaysia", Pertiwi TV
 
+#EXTINF:-1, group-title="Malaysia", Awesome TV
+https://my.odtv.uk/live/9486331171/7860879594/175.ts
+
+#EXTINF:-1, group-title="Malaysia", Astro Aura
+https://my.odtv.uk/live/9486331171/7860879594/23.ts
+#EXTINF:-1, group-title="Malaysia", Astro Rania
+https://my.odtv.uk/live/9486331171/7860879594/22.ts
+#EXTINF:-1, group-title="Malaysia", Astro Naura
+https://my.odtv.uk/live/9486331171/7860879594/20.ts
 
 
 
@@ -555,7 +564,7 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/axn.png", AXN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/176.ts
 
 #EXTINF:-1 group-title="Movie Channel", B4U Movies
 
@@ -578,7 +587,7 @@ http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", CCTV 6
 
 #EXTINF:-1 group-title="Movie Channel", Celestial Movies
-
+https://my.odtv.uk/live/9486331171/7860879594/161.ts
 #EXTINF:-1 group-title="Movie Channel", Celestial Classic Movies
 
 #EXTINF:-1 group-title="Movie Channel", CHC
@@ -655,22 +664,22 @@ http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 #EXTINF:-1, group-title="Movie Channel", Gem
 
 
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO Family
+https://my.odtv.uk/live/9486331171/7860879594/181.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_family.png", HBO
-http://103.157.237.18:8000/play/739
+https://my.odtv.uk/live/9486331171/7860879594/72.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO 3
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo.png", HBO Hits
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/180.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/182.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Zone
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hits.png", Hits
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://macan.live/img/hits_movies.png", Hits Movies
-
+https://my.odtv.uk/live/9486331171/7860879594/70.ts
 #EXTINF:-1 group-title="Movie Channel", ifilm
 
 #EXTINF:-1 group-title="Movie Channel", ifc Films
@@ -680,7 +689,7 @@ http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", K+ 1
 
 #EXTINF:-1 group-title="Movie Channel", Kix
-
+https://my.odtv.uk/live/9486331171/7860879594/112.ts
 #EXTINF:-1 group-title="Movie Channel", Lotus Macau
 
 #EXTINF:-1 group-title="Movie Channel", Maha Movie
@@ -807,7 +816,7 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel", UTV Action
 http://185.71.64.6/8687122274/7806044871/83632
 #EXTINF:-1 group-title="Movie Channel", Warner TV
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/WarnerTV/playlist.m3u8
+https://my.odtv.uk/live/9486331171/7860879594/117.ts
 #EXTINF:-1 group-title="Movie Channel", Wow Cinema
 
 #EXTINF:-1 group-title="Movie Channel", Zee TV
