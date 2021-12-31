@@ -130,7 +130,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 #EXTINF:-1, tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Indonesia", MNC TV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Indonesia", Net.TV
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Indonesia", RCTI
