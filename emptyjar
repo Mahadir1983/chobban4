@@ -101,8 +101,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
-
-
+#EXTINF:-1, tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Indonesia", AdiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Indonesia", ANTV
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Indonesia", Berita Satu World
@@ -116,13 +116,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
 
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
-
+https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1, group-title="Indonesia", Indonesia Channel
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Indonesia", iNews
-
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13" group-title="Indonesia", Jakarta Globe News
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Indonesia", Kompas TV
