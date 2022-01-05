@@ -104,7 +104,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1, tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Indonesia", AdiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/qAKhvwu.png?v=2.0.0.13" group-title="Indonesia", ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://cubmu.nomaden.tv:8279/ANTV/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/gII3Eq8.png?v=2.0.0.13" group-title="Indonesia", Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-3FNJE69u8Gk/W9yMvE3XYBI/AAAAAAAAJ7M/zWiB51aguT0mV1Yh_PiosfmLmlbHhblewCLcBGAs/s1600/bioskopindonesia.png?v=1.0.0.0" group-title="Indonesia", Bioskop Indonesia
@@ -114,31 +114,31 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1, tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=2.0.0.13" group-title="Indonesia", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1, group-title="Indonesia", Disney Jr Indonesia
-
+http://58.65.171.202:8000/play/10552/index.m3u8
 #EXTINF:-1, group-title="Indonesia" tvg-logo="https://i.postimg.cc/RN9dVxdF/GLOBALTV.png", Global TV
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:-1, group-title="Indonesia", Indonesia Channel
-
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="Indonesia", Indosiar
-
+http://www.daygun.online/Live/ru/v.m3u8?id=indosiar
 #EXTINF:-1,tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="Indonesia", iNews
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/rg1rTkj.png?v=2.0.0.13" group-title="Indonesia", Jakarta Globe News
-
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/aJhpmgf.png?v=2.0.0.13" group-title="Indonesia", Kompas TV
-
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1, tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="Indonesia", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/xmuuJjO.png?v=2.0.0.13" group-title="Indonesia", MNC TV
 https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/jqNYjGu.png?v=2.0.0.13" group-title="Indonesia", Net.TV
-
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1tvg-logo="https://i.imgur.com/If0UMcd.png?v=2.0.0.13" group-title="Indonesia", RCTI
-
+https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="Indonesia", RTV
-
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1, tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="Indonesia", SCTV
-
+http://www.daygun.online/Live/ru/v.m3u8?id=sctv
 #EXTINF:-1,tvg-logo="https://i.imgur.com/lewjYAw.png" group-title="Indonesia", Sinema Indonesia
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="Indonesia", TRANS TV
@@ -148,7 +148,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/XBtbPBF.png?v=2.0.0.13" group-title="Indonesia", TVRI HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13"  group-title="Indonesia", TV One
-
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1, group-title="Indonesia", Drakor
 
 #EXTINF:-1, group-title="Indonesia", Drakor Plus
